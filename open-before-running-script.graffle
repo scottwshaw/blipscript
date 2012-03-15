@@ -26,7 +26,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2012-03-15 12:37:14 +0000</string>
+	<string>2012-03-15 12:47:39 +0000</string>
 	<key>Modifier</key>
 	<string>Scott Shaw</string>
 	<key>NotesVisible</key>
@@ -320,7 +320,7 @@
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>ExpandedCanvases</key>
 		<array>
 			<dict>
@@ -347,9 +347,9 @@
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{100.66226, 147.01987}, {1031.7882, 533.7749}}</string>
+		<string>{{-202, -11}, {1558, 806}}</string>
 		<key>Zoom</key>
-		<real>0.75499999523162842</real>
+		<real>0.5</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
