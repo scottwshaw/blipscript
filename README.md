@@ -1,5 +1,5 @@
-1. Open the script file "populate-numbered blips.graffle" in the
-AppleScript editor
+1. Open the script file "populate-numbered blips.graffle" or
+"populate-labled-quadrant.scpt" in the AppleScript editor
 
 2. Open the file "open-before-running-script.graffle" in OmniGraffle
 Professional 5 (script refers to this specific version
