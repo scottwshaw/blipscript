@@ -1,0 +1,105 @@
+Number	Name	Type	Angle around circle of radar	Blip Edit Status	Blip Quadrant	Blip Ring	Brand Value	Cost	Cost Reduction	Created	Date last modified	Distance from center of Radar	Due Date	Estimate	Event Date	Event Type	IsFaded	Location	Market Size	Owner	Pricing Power	Priority	Status	Target Quarter	URL	URL - Shortened	URL label	Value	Events	Events - Event	Stories	Stories - Story	Technologies	Technologies - Technology	Created by	Modified by
+445	Agile Analytics	Blip	132	In Editing	Techniques	Trial					2012-1	212								psadalag									no		no		no		jnorris	jnorris
+442	Google Dart	Blip	294	In Editing	Languages	Hold					2012-1	375								rferraz									no		no		no		jnorris	jnorris
+441	Functional java	Blip	356	In Editing	Languages	Assess					2012-1	320								nford									no		no		no		jnorris	jnorris
+438	ClojureScript	Blip	286	In Editing	Languages	Assess					2012-1	290								nford									no		no		no		jnorris	jnorris
+437	Care about languages	Blip	285	In Editing	Languages	Adopt					2012-1	75								icartwri									no		no		no		jnorris	jnorris
+436	Buying solutions you can only afford one of	Blip	232	In Editing	Platforms	Hold					2012-1	375								mmason									no		no		no		jnorris	jnorris
+435	Treating VM's like physical infrastructure	Blip	261	In Editing	Platforms	Hold					2012-1	375								mmason									no		no		no		jnorris	jnorris
+434	Zero-code packages	Blip	201	In Editing	Platforms	Hold					2012-1	375								sshaw									no		no		no		jnorris	jnorris
+433	RIA	Blip	247	In Editing	Platforms	Hold					2012-1	375								nford									no		no		no		jnorris	jnorris
+432	OpenSocial	Blip	248	In Editing	Platforms	Assess					2012-1	320								bjanakir									no		no		no		jnorris	jnorris
+431	Hybrid clouds	Blip	226	In Editing	Platforms	Assess					2012-1	310								sshaw									no		no		no		jnorris	jnorris
+430	Private clouds	Blip	240	In Editing	Platforms	Trial					2012-1	220								sshaw									no		no		no		jnorris	jnorris
+429	AppHarbor	Blip	186	In Editing	Platforms	Assess					2012-1	290								rferraz									no		no		no		jnorris	jnorris
+428	Single threaded servers with asynchronous I/O	Blip	197	In Editing	Platforms	Assess					2012-1	285								sshaw									no		no		no		jnorris	jnorris
+425	Windows Phone 7	Blip	211	In Editing	Platforms	Trial					2012-1	220								rferraz									no		no		no		jnorris	jnorris
+424	Communication between those responsible for hardware and software developers	Blip	265	In Editing	Platforms	Adopt					2012-1	75								nford									no		no		no		jnorris	jnorris
+423	Linux containers	Blip	195	In Editing	Platforms	Trial					2012-1	212								sshaw									no		no		no		jnorris	jnorris
+422	Domain Specific PAAS	Blip	258	In Editing	Platforms	Trial					2012-1	210								sshaw									no		no		no		jnorris	jnorris
+421	Care about hardware	Blip	250	Need Write Up	Platforms	Adopt					2012-1	75								icartwri									no		no		no		jnorris	jnorris
+419	Maven	Blip	29	In Editing	Tools	Hold					2012-1	375								rferraz									no		no		no		jnorris	jnorris
+418	Riak	Blip	24	In Editing	Tools	Assess					2012-1	310								psadalag									no		no		no		jnorris	jnorris
+416	NuGet	Blip	27	In Editing	Tools	Trial					2012-1	265								hxu									no		no		no		jnorris	jnorris
+413	Logic-free markup	Blip	55	In Editing	Tools	Assess					2012-1	310								rferraz									no		no		no		jnorris	jnorris
+411	Jade	Blip	34	Include w/o Write Up	Tools	Trial					2012-1	260								rferraz									no		no		no		jnorris	jnorris
+410	JavaScript micro frameworks	Blip	75	In Editing	Tools	Trial					2012-1	255								mmason									no		no		no		jnorris	jnorris
+408	JavaScript tooling	Blip	40	In Editing	Tools	Trial					2012-1	250								rferraz									no		no		no		jnorris	jnorris
+407	Frank	Blip	12	In Editing	Tools	Trial					2012-1	245								sshaw									no		no		no		jnorris	jnorris
+406	PSake	Blip	40	In Editing	Tools	Trial					2012-1	235								ebottche									no		no		no		jnorris	jnorris
+405	FPM	Blip	24	In Editing	Tools	Trial					2012-1	225								ebottche									no		no		no		jnorris	jnorris
+403	Test recorders	Blip	127	In Editing	Techniques	Hold					2012-1	375								bjanakir									no		no		no		jnorris	rjparson
+402	Server / Application Container End of Life	Blip	98	In Editing	Techniques	Hold					2012-1	375								mmason									no		no		no		jnorris	jnorris
+401	Windows Infrastructure Automation	Blip	102	In Editing	Techniques	Trial					2012-1	260								mmason									no		no		no		jnorris	jnorris
+399	Production immune system	Blip	112	In Editing	Techniques	Assess					2012-1	290								mmason									no		no		no		jnorris	jnorris
+397	Mechanical sympathy	Blip	160	In Editing	Techniques	Assess					2012-1	290								mmason									no		no		no		jnorris	rjparson
+396	Infrastructure automation of development workstations	Blip	110	In Editing	Techniques	Trial					2012-1	215								rferraz									no		no		no		jnorris	jnorris
+395	Micro-services	Blip	177	In Editing	Techniques	Assess					2012-1	300								jalewis									no		no		no		jnorris	rjparson
+394	Embedding a servlet container	Blip	122	In Editing	Techniques	Trial					2012-1	260								bjanakir									no		no		no		jnorris	rjparson
+391	Out of container functional testing	Blip	140	In Editing	Techniques	Trial					2012-1	260								jalewis									no		no		no		jnorris	jnorris
+390	Performance testing as a first class citizen	Blip	95	In Editing	Techniques	Trial					2012-1	180								wlistvan									no		no		no		jnorris	rjparson
+389	Experience Design (XD)	Blip	119	In Editing	Techniques	Assess					2012-1	312								nford									no		no		no		jnorris	jnorris
+388	Health check pages	Blip	115	In Editing	Techniques	Adopt					2012-1	75								snewman									no		no		no		jnorris	jnorris
+381	Test at the appropriate level	Blip	92	In Editing	Techniques	Adopt					2012-1	75								sshaw									no		no		no		jnorris	jnorris
+380	Single command deploy	Blip	91	In Editing	Techniques	Trial					2012-1	215								bjanakir									no		no		no		jnorris	rjparson
+315	Gradle	Blip	80	In Editing	Tools	Assess					2012-1	310								rferraz									no		no		no		nford	jnorris
+314	Logic in stored Procedures	Blip	315		Languages	Hold					2011-7	375								ebottche									no		no		no		jnorris	jnorris
+313	Coffeescript	Blip	340		Languages	Trial					2011-7	240								nford									no		no		no		jnorris	jnorris
+312	Java portal servers	Blip	235		Platforms	Hold					2011-7	375								ebottche									no		no		no		jnorris	jnorris
+311	Cloud foundry	Blip	252		Platforms	Assess					2011-7	310								nphines									no		no		no		jnorris	jnorris
+310	Ubiquitous computing	Blip	260		Platforms	Trial					2011-7	165								icartwri									no		no		no		jnorris	jnorris
+309	Offline mobile Webapps (just html5)	Blip	240		Platforms	Trial					2011-7	270								icartwri									no		no		no		jnorris	jnorris
+308	Code in Configuration	Blip	72		Tools	Hold					2011-7	375								gbrooks									no		no		no		jnorris	jnorris
+307	"VCS with \""implicit workflow\"""	Blip	54		Tools	Hold					2011-7	375								icartwri									no		no		no		jnorris	jnorris
+306	Open Source BI/ETL tools	Blip	18		Tools	Assess					2011-7	310								psadalag									no		no		no		jnorris	jnorris
+305	Sonar	Blip	75		Tools	Assess					2011-7	290								hxu									no		no		no		jnorris	jnorris
+304	Backbone.js	Blip	55		Tools	Trial					2011-7	295								hxu									no		no		no		jnorris	jnorris
+303	jQuery Mobile	Blip	40		Tools	Assess					2011-7	345								icartwri									no		no		no		jnorris	jnorris
+301	Powershell	Blip	18		Tools	Trial					2011-7	160								mmason									no		no		no		jnorris	jnorris
+297	Manual infrastructure management	Blip	165		Techniques	Hold					2011-7	375								mmason									no		no		no		jnorris	jnorris
+296	Feature branching	Blip	150		Techniques	Hold					2011-7	375								ebottche									no		no		no		jnorris	jnorris
+293	Event Sourcing	Blip	144		Techniques	Assess					2011-7	290								mfowler									no		no		no		jnorris	jnorris
+292	Event API's	Blip	170		Techniques	Trial					2011-7	255																	no		no		no		jnorris	jnorris
+291	Build your own radar	Blip	162		Techniques	Trial					2011-7	200								nford									no		no		no		jnorris	jnorris
+289	Thoughtful Caching	Blip	144		Techniques	Trial					2011-7	200								icartwri									no		no		no		jnorris	jnorris
+288	Continuous Delivery	Blip	175		Techniques	Adopt					2011-7	145																	no		no		no		jnorris	jnorris
+287	Simple Performance Trending	Blip	130	Include w/o Write Up	Techniques	Adopt					2011-7	70								wlistvan									no		no		no		jnorris	jnorris
+284	SASS, SCSS, and LESS	Blip	350	Include w/o Write Up	Languages	Trial					2011-1	210													http://sass-lang.com/		SASS - Syntactically Awesome Stylesheets		no		no		no		skseth	jnorris
+282	vFabric	Blip	192		Platforms	Assess					2011-7	345								nphines					http://www.springsource.com/products		vFabric Cloud Application Platform		no		no		no		skseth	jnorris
+280	Node.js	Blip	202		Platforms	Assess					2011-1	277								hxu					http://nodejs.org/		Node.js home page		no		no		no		skseth	jnorris
+279	Heroku	Blip	254		Platforms	Trial					2011-7	265								sshaw					http://heroku.com/		Heroku		no		no		no		skseth	jnorris
+277	Vagrant	Blip	60	Include w/o Write Up	Tools	Trial					2011-1	165													http://vagrantup.com/		Vagrant virtualized development environments		no		no		no		skseth	jnorris
+274	Log aggregation & indexing (was Splunk)	Blip	45	Being Written	Tools	Trial					2011-1	170								wlistvan					http://www.splunk.com/		Splunk homepage		no		no		no		skseth	jnorris
+268	Acceptance Test of Journeys	Blip	135	In Editing	Techniques	Trial					2011-1	165								bjanakir									no		no		no		skseth	jnorris
+267	Categorization & Prioritization of Technical Debt	Blip	95		Techniques	Trial					2011-1	245								icartwri					http://www.martinfowler.com/bliki/TechnicalDebt.html		A definition of Technical Debt		no		no		no		skseth	jnorris
+266	Automate Database Deployment	Blip	135		Techniques	Adopt					2011-7	90								psadalag					http://www.innovartis.co.uk/Automated_Database_Change_Management_Whitepaper.htm		Automated database deployment whitepaper		no		no		no		skseth	jnorris
+264	JavaScript as a first class language	Blip	300	In Editing	Languages	Adopt						80								mmason									no		no		no		skseth	jnorris
+260	Domain-Specific Languages	Blip	320	Include w/o Write Up	Languages	Trial					2011-1	170													http://www.martinfowler.com/bliki/DomainSpecificLanguage.html		Martin Fowler's Bliki: Domain Specific Languages		no		no		no		skseth	jnorris
+259	HTML 5	Blip	330		Languages	Adopt					2011-7	140								icartwri					http://slides.html5rocks.com		HTML 5 Rocks!		no		no		no		skseth	jnorris
+258	Clojure	Blip	292		Languages	Trial					2012-1	170								nford									no		no		no		skseth	jnorris
+257	Scala	Blip	300	Include w/o Write Up	Languages	Trial					2011-1	155													http://www.scala-lang.org/node/25		The Scala Programming Language		no		no		no		skseth	jnorris
+256	F#	Blip	320	In Editing	Languages	Assess						290								mmason									no		no		no		skseth	jnorris
+255	Future of Java	Blip	330	In Editing	Languages	Assess					2011-1	325								rferraz					http://www.infoworld.com/d/developer-world/the-coming-war-over-the-future-java-866?page=0,0		The Coming War Over the Future of Java		no		no		no		skseth	jnorris
+252	ATOM	Blip	202		Platforms	Adopt					2010-8	30																	no		no		no		skseth	jnorris
+251	KVM	Blip	245		Platforms	Adopt					2010-8	25																	no		no		no		skseth	jnorris
+246	AWS	Blip	235	In Editing	Platforms	Adopt					2011-7	115								snewman									no		no		no		skseth	jnorris
+245	Tablet	Blip	216	Include w/o Write Up	Platforms	Trial					2011-7	170																	no		no		no		skseth	jnorris
+240	GPGPU	Blip	190	Include w/o Write Up	Platforms	Assess						300																	no		no		no		skseth	jnorris
+236	Mobile Web	Blip	210		Platforms	Adopt					2011-7	85								icartwri									no		no		no		skseth	jnorris
+234	WS-*	Blip	190	In Editing	Platforms	Hold					2011-7	375								mmason									no		no		no		skseth	jnorris
+232	GWT	Blip	224		Platforms	Hold					2011-7	375								nford									no		no		no		skseth	jnorris
+227	Git	Blip	70		Tools	Adopt					2011-7	110								nford									no		no		no		skseth	jnorris
+224	Infrastructure as Code	Blip	45	In Editing	Tools	Adopt					2011-7	75								mmason					http://www.agileweboperations.com/the-implications-of-infrastructure-as-code		The implications of Infrastructure as Code		no		no		no		skseth	jnorris
+223	Message Buses without smarts	Blip	85		Tools	Trial					2010-8	140																	no		no		no		skseth	jnorris
+221	Polyglot Persistence	Blip	7	In Editing	Tools	Trial					2012-1	225								psadalag					http://martinfowler.com/bliki/PolyglotPersistence.html				no		no		no		skseth	edoernen
+216	Github	Blip	65		Tools	Adopt					2011-7	110								nford									no		no		no		skseth	jnorris
+215	Cross Platform Mobile Toolkits	Blip	18		Tools	Hold					2011-7	375								icartwri									no		no		no		skseth	jnorris
+213	Enterprise Service Bus	Blip	36	Include w/o Write Up	Tools	Hold					2010-8	375																	no		no		no		skseth	jnorris
+210	Evolutionary database	Blip	158		Techniques	Adopt					2011-7	50								psadalag									no		no		no		skseth	jnorris
+209	Emergent design	Blip	100	In Editing	Techniques	Adopt					2010-8	75								nford									no		no		no		skseth	jnorris
+207	Data visualizations of development and operations	Blip	148	In Editing	Techniques	Adopt					2011-7	75								nford									no		no		no		skseth	jnorris
+206	Coding architects	Blip	175	Include w/o Write Up	Techniques	Adopt					2010-8	70								wlistvan									no		no		no		skseth	jnorris
+205	Evolutionary architecture	Blip	112	In Editing	Techniques	Adopt					2011-7	140								rjparson									no		no		no		skseth	rjparson
+199	DevOps	Blip	157	Include w/o Write Up	Techniques	Adopt					2011-7	90													http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/		What is this DevOps thing, anyway?		no		no		no		skseth	jnorris
+197	Scrum certification	Blip	105	Include w/o Write Up	Techniques	Hold						375																	no		no		no		skseth	jnorris
+196	Database based integration	Blip	120	Include w/o Write Up	Techniques	Hold					2010-8	375								psadalag									no		no		no		skseth	jnorris
